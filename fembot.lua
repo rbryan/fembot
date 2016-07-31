@@ -33,9 +33,9 @@ local statistics = {	0,
 
 
 
-local simulation_mode = true
-local use_networks = true
-local training_mode = true
+local simulation_mode = false
+local use_networks = false
+local training_mode = false
 local training_append = false
 local output_data = true
 
